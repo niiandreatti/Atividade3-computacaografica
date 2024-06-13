@@ -12,7 +12,9 @@ main.js: Contém o código JavaScript responsável pela lógica do projeto, incl
 utils.js: Biblioteca utilitária que auxilia na inicialização de shaders, buffers e outras operações comuns em WebGL.
 textures/: Diretório que contém as imagens de textura utilizadas nos objetos.
 
-
+atividade 3
 ![Visualização do Cubos](images/cubos.png)
+
+Trabalho 7
 ![Visualização do Cubos](images/texturas.png)
 
