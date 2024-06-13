@@ -14,5 +14,5 @@ textures/: Diretório que contém as imagens de textura utilizadas nos objetos.
 
 
 ![Visualização do Cubos](images/cubos.png)
-
+![Visualização do Cubos](images/texturas.png)
 
